@@ -1,0 +1,19 @@
+body{
+    background-color: #c7c6c3;
+    margin: auto;
+}
+.header_main{
+    /* width: 100%; */
+    padding-bottom: 25%;
+    background-image: url(/img/bg-3.jpg);
+    background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.header_main-content{
+    
+}
+main{
+    margin: 0 10%;
+
+}
