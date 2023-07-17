@@ -1,6 +1,7 @@
 body{
     background-color: #c7c6c3;
-    margin: auto;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header_main{
@@ -9,25 +10,23 @@ body{
     background-image: url(/img/bg-3.jpg);
     background-size: cover;
     background-position: right center;
-    background-repeat: no-repeat;
 }
 .header_main-content{
     /* background-color: white; */
     margin: 150px auto 0;
     width: 80%;
     text-align: center;
+    color: white;
 }
 
 .header_main-content h1{
     font-size: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
     text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
 }
 
 .header_main-content p{
     background-color: rgba(0, 0, 0, 0.7);
-    color: white;
     font-size: 12px;
     text-align: center;
     display:inline-block;
